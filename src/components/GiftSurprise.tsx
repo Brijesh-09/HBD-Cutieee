@@ -19,7 +19,7 @@ export function GiftSurprise({ openGift, setOpenGift }: GiftSurpriseProps) {
           <div className="animate-confetti">
             <PartyPopper className="w-24 h-24 text-pink-500" />
             <p className="text-2xl font-bold text-pink-600 mt-4">
-              A special dinner date awaits you! 🎉
+              A special Lunch date awaits you! 🎉
             </p>
           </div>
         )}
