@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Gift, PartyPopper } from 'lucide-react';
 
 interface GiftSurpriseProps {
